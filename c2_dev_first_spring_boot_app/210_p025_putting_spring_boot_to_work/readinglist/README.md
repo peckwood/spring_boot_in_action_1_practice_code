@@ -51,4 +51,4 @@ Using Thymeleaf, JPA
 
 ## Issues
 
-Cannot access style.css, 404
+Cannot access style.css, 404, sometimes
